@@ -14,7 +14,9 @@ ios/CueCard/data/graph.pb
 
 ## Build generated
 build/
-DerivedData/
+Deri## Build generated
+build/
+DerivedData/vedData/
 
 ## Various settings
 *.pbxuser
