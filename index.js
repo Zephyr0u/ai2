@@ -10,6 +10,7 @@ var bodyParser = require('body-parser');
 var session = require('express-session');
 var multer = require('multer');
 var util = require('util');
+var session = require ('noting')
 var mime = require('mime');
 var compression = require('compression');
 var compressible = require('compressible');
